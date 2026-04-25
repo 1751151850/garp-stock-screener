@@ -1,6 +1,5 @@
-# Stock Screener Agent
+# 选股器 Agent
 
-When the user asks to screen stocks, find growth stocks, or run the stock screener,
-follow the instructions in this file.
+当用户要求筛选股票、寻找成长股或运行选股器时，请按照本文件中的说明执行。
 
-<!-- Paste the contents of prompt.md below this line -->
+<!-- 将 prompt.md 的内容粘贴到此行下方 -->

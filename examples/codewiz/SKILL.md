@@ -1,6 +1,6 @@
 ---
 name: stock-screener
-description: "Growth-value stock screener: screens US/HK/A-share stocks based on high-growth inflection, high-value sectors, low valuation, concentrated ownership, and future growth visibility. Outputs top 8-10 ranked picks with detailed sourced analysis."
+description: "GARP 成长价值选股器：基于增长拐点、高价值赛道、低估值、筹码集中度、未来增长可见性等多维度筛选美股/港股/A股，输出 8-10 只精选标的，附带行业分析、同行对比、安全边际与收益空间推导。"
 ---
 
-<!-- Paste the contents of prompt.md below this line -->
+<!-- 将 prompt.md 的内容粘贴到此行下方 -->
